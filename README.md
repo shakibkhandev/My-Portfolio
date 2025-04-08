@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi there! 👋 I'm Shakib Khan
 
-## Getting Started
+I'm a passionate developer focused on web and mobile development. I love exploring new technologies, building innovative solutions, and diving into the intersection of AI and business. Currently, I’m working on personal projects to sharpen my skills in JavaScript, Kotlin, and beyond. I’m always excited to collaborate and learn from others—let’s create something amazing together!
 
-First, run the development server:
+<img src="public\profile.png" style="width:200px; height:200px; object-fit:cover;"/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I’m a self-driven developer with a keen interest in web and mobile technologies. I enjoy tackling challenges, experimenting with new tools, and blending AI concepts into practical applications. Right now, I’m honing my skills through personal projects in JavaScript, Kotlin, and more. Open to teamwork and eager to grow—hit me up for a collaboration!
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Work Experience
 
-To learn more about Next.js, take a look at the following resources:
+- **No Professional Experience Yet**  
+  I’m just getting started and focusing on building my portfolio through personal projects.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Education
 
-## Deploy on Vercel
+- **Higher Secondary Certificate (HSC)**  
+  *2024 - 2026*  
+  Currently enrolled and working hard to pass!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Secondary School Certificate (SSC)**  
+  *2022 - 2024*  
+  Successfully completed.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Junior School Certificate (JSC)**  
+  *2021*  
+  Successfully completed.
+
+---
+
+Let’s connect and build something awesome together!
+
+[Preview](shakibkhan.vercel.app)
