@@ -37,4 +37,4 @@ I’m a self-driven developer with a keen interest in web and mobile technologie
 
 Let’s connect and build something awesome together!
 
-[Preview](shakibkhan.vercel.app)
+[Preview](https://shakibkhan.vercel.app)
