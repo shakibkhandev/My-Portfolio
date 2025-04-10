@@ -77,8 +77,9 @@ export default function FloatingBottomNavBar() {
 
         {/* Blog Link */}
         <div className="relative group">
-          <Link
-            href="/blogs"
+          <a
+            href="https://shakibkhan.hashnode.dev/"
+            target="_blank"
             className={`relative flex items-center justify-center w-10 h-10 rounded-xl cursor-pointer
         transition-all duration-300 ease-in-out
         ${
@@ -102,7 +103,7 @@ export default function FloatingBottomNavBar() {
               <path d="M4 4h16v16H4z" />
               <path d="M8 8h8M8 12h6M8 16h4" />
             </svg>
-          </Link>
+          </a>
           <span
             className={`absolute -top-10 left-1/2 -translate-x-1/2 px-3 py-1 rounded-lg text-sm whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none
       ${
