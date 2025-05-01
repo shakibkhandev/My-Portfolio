@@ -88,6 +88,16 @@ const data = {
   ],
   projects: [
     {
+      name: "PDF Insight Assistant",
+      image:
+        "/pdf-insight-assistant.png",
+      timeline: "21 Apr 2025 - 30 Apr 2025",
+      details:
+        "A powerful, interactive web application that allows users to chat with their PDF documents using AI. Built with Streamlit and powered by Google's Gemini AI, this tool enables users to extract meaningful insights from PDF documents through natural language conversations.",
+      techStacks: ["Python", "Streamlit","Faiss" ,"Transformers" ,"Google's Gemini AI", "PDF Plumber", "Langchain"],
+      url: "https://github.com/shakibkhandev/pdf-indight-assistant",
+    },
+    {
       name: "Filmflare",
       image:
         "https://raw.githubusercontent.com/shakibkhandev/Filmflare-Movie-Web-App/refs/heads/main/assets/01.png",
@@ -100,7 +110,7 @@ const data = {
     {
       name: "Expense Tracker",
       image:
-        "https://raw.githubusercontent.com/shakibkhandev/Expense-Tracker-Web-App/refs/heads/main/assets/01.png",
+        "https://raw.githubusercontent.com/shakibkhandev/Expense-Tracker-Web-App/refs/heads/main/assets/light.png",
       timeline: "Jan 2025 - Feb 2025",
       details:
         "Expense Tracker is a web application designed to help users manage their finances. Built with Next.js and TypeScript, it allows users to track expenses The app uses Local database.",
