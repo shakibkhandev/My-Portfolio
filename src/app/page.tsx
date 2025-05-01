@@ -95,7 +95,7 @@ const data = {
       details:
         "A powerful, interactive web application that allows users to chat with their PDF documents using AI. Built with Streamlit and powered by Google's Gemini AI, this tool enables users to extract meaningful insights from PDF documents through natural language conversations.",
       techStacks: ["Python", "Streamlit","Faiss" ,"Transformers" ,"Google's Gemini AI", "PDF Plumber", "Langchain"],
-      url: "https://github.com/shakibkhandev/pdf-indight-assistant",
+      url: "https://github.com/shakibkhandev/pdf-insight-assistant",
     },
     {
       name: "Filmflare",
