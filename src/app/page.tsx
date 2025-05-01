@@ -43,9 +43,9 @@ const buttonVariants = {
 
 const data = {
   name: "Shakib Khan",
-  profession: "Web & Mobile Developer",
+  profession: "Web & App Developer",
   about:
-    "I'm a passionate developer with a focus on web and mobile development. I enjoy learning new technologies, creating innovative solutions, and exploring the intersection of AI and business. Currently, I'm working on personal projects to enhance my skills in JavaScript, Kotlin, and more. Always open to collaborating and learning from others. Let's build something awesome together!",
+    "I'm a passionate developer specializing in web and app development. I thrive on learning new technologies, building innovative solutions, and exploring the potential of artificial intelligence. Currently, I'm working on personal projects to strengthen my skills in JavaScript, React Native, and machine learning. I'm always open to collaboration and eager to learn from others. Let’s build something amazing together!",
   image: "/profile.png",
   email: "mdshakibkhan.dev@gmail.com",
   social: {
@@ -58,14 +58,14 @@ const data = {
     {
       school: "Sylhet Govt. Pilot High School",
       degree: "Secondary School Certificate (SSC)",
-      startDate: "10 Aug 2014",
-      endDate: "10 Aug 2018",
+      startDate: "01 Jan 2022",
+      endDate: "14 Apr 2024",
     },
     {
       school: "MC College",
       degree: "Higher Secondary Certificate (HSC)",
-      startDate: "10 Aug 2014",
-      endDate: "10 Aug 2018",
+      startDate: "10 Aug 2024",
+      endDate: "10 May 2026",
     },
   ],
   skills: [
@@ -77,11 +77,14 @@ const data = {
     "Next.js",
     "TypeScript",
     "Python",
-    "Django",
-    "SQL",
+    "Postgresql",
+    "MongoDB",
+    "Firebase",
     "Git",
     "GitHub",
     "Docker",
+    "C++",
+    "Fast API"
   ],
   projects: [
     {

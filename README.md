@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shakib Khan
 
-I'm a passionate developer focused on web and mobile development. I love exploring new technologies, building innovative solutions, and diving into the intersection of AI and business. Currently, I’m working on personal projects to sharpen my skills in JavaScript, Kotlin, and beyond. I’m always excited to collaborate and learn from others—let’s create something amazing together!
+I'm a passionate developer specializing in web and mobile development. I thrive on learning new technologies, building innovative solutions, and exploring the potential of artificial intelligence. Currently, I'm working on personal projects to strengthen my skills in JavaScript, React Native, and machine learning. I'm always open to collaboration and eager to learn from others. Let’s build something amazing together!
 
 <img src="public\profile.png" style="width:200px; height:200px; object-fit:cover;"/>
 
